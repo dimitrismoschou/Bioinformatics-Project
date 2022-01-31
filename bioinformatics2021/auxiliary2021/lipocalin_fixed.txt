@@ -1,0 +1,36 @@
+>A Rhodium Complex-Linked Hybrid Biocatalyst: Stereo-Controlled Phenylacetylene Polymerization Wi Engineered Protein Cavity 
+--mwshpqfeknqlqqlqnpgesppvhpfVAPLSYLLGTWRGQGEGEYPTIPSFRYGEEIRFSH-SGKPVIAYTQKTWKL 
+ESgA-PLLAESGYFRprPDGS--IEVVIACSTGLVEVQKGTYNv--dEqsIKLKS---DLV---GNASKVKEISREFELv 
+DGK---LSYVVRLSTTTNPLQPLLKAILDkl--------- 
+> protein sequence which may be annotated on many different RefSeq genomes from the same, or different, species 
+----------------mvesqppiaphpdIAPLAALLGTWRGNGHGEYPTIQPFDYLEEVRFGH-LGRPFLTYRQRTRAA 
+DD-GrPMHAETGYLR--CPRPdrVELILAHPTGITEICEGALTvddgAlhLEFDS---TSIgrsSTAKLVTALGRTFQV- 
+KGDt--IDYTVRMAAVGEPLQHHLAATLIrae-------- 
+>fatty acid-binding protein-like protein 
+------------------madsvpalhpdVAALAPLLGTWVGEGSGEYPTIEPFGYTEEITFGH-VGKPFLTYAQRTRAA 
+DD-GrPLHAETGYLR--ASAPdrIEWILAHPTGITEIQEGQLTadgdGlrMELVS---SSIgrsGSAKEVTDVGRSIEL- 
+RGDt--LTYTLRMAAVGQPLQHHLSAVLRrvr-------- 
+>Complete Genome Sequence of a Novel Clinical Isolate, the Nontuberculous Mycobacterium Strain JDM601 
+------------------------------mELAPLLGTWSGRGRGVYPTIASFDYLEEVTFSH-VGKPFLVYGQKTKSA 
+AD-GlPLHAETGYLR--VPQPgrIEWVLAHPSGITEIEVGSYRvtadGieLEMSA---PTIglaPTAKEVTALSRRYRL- 
+ARDe--LSYTLDMGAVGEPAQNHLTAALRrtg-------- 
+>Insights from the complete genome sequence of Mycobacterium marinum on the evolution of Mycobacterium tuberculosis ---------------------mpadlhpdLDALAPLLGTWAGQGSGEYPTIEPFEYLEEVVFSH-VGKPFLVYAQKTRAV AD-GaPLHAETGYLR--VPKPgqVELVLAHPSGITEIEVGTYSasggVieMEMVT---TAIgmtPTAKEVTALSRSFRM- VGDe--LSYRLRMGAVGLPLQHHLGARLRrks-------- 
+>The complete genome sequence of Mycobacterium avium subspecies paratuberculosis 
+---------------------mptdlhpdLAALAPLLGTWTGRGSGKYPTIQPFDYLEEVTFSH-VGKPFLAYAQKTRAA 
+AD-GkPLHAETGYLR--VPQPgrLELVLAHPSGITEIEVGSYAvtggLieMRMST---TSIgltPSAKEVTALARWFRI- 
+DGDe--LSYSVQMGAVGQPLQDHLAAVLHrqr-------- 
+>Crystal Structure Of Rv2717c From Mycobacterium Tub 
+---------------------mtrdlapaLQALSPLLGSWAGRGAGKYPTIRPFEYLEEVVFAH-VGKPFLTYTQQTRAV 
+AD-GkPLHSETGYLR--VCRPgcVELVLAHPSGITEIEVGTYSvtgdVieLELSTradGSIglaPTAKEVTALDRSYRI- 
+DGDe--LSYSLQMRAVGQPLQDHLAAVLHrqrrshhhhhh 
+>Massive gene decay in the leprosy bacillus 
+---------------------mpsdlcpdLQALAPLLGSWVGRGMGKYPTIQPFEYLEEVVFSH-LDRPFLTYTQKTRAI 
+TD-GkPLHAETGYLR--VPQPghIELVLAHHSDIAEIEVGTYSvtgdLieVELVT---TTIglvPTAKQVTALGRFFRI- 
+DGDe--FAYSVQMGAVGQPLQDHLVAVLHrkq-------- 
+>Complete genome sequence of Acidimicrobium ferrooxidans type strain 
+-----------------------------mtireMLEGTWTGSGIGSYPEVAEFSYQERLRFES-NGRPFLRMEQHT-TG 
+PD-GsPLHTEVGYLR--FVANgrLELVVAQPTGIVEVLEGGAEeaeggvvISLTS---LVVattPSAKRVDAVQRRFTL- 
+RGDe--LMTELWMDAMERGMHQHLESRLRrg--------- 
+>Comparative complete genome sequence analysis of the amino acid replacements responsible for the thermostability of Corynebacterium efficiens mgarvermlfdarsapiplrstgmdlhpnIAPYGFLTGTWTGKGHGFYPTIEDFSYEETLNFSTiPGKPFFRYEQKTMGL 
+Dg---PLHTELGFLR--ILDDgrAEFILAQPMGQTELLEGMVSeegeTlvFDFTR---STVansGSAKRVGTTARTYTF- 
+TADrtgLSAQFAMGAVGQPLQQHLESELTkqs--------
